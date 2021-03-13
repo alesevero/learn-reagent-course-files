@@ -6,3 +6,7 @@
 yarn.lock
 package-lock.json
 .DS_Store
+.clj-kondo/cache/
+.clj-kondo/.cache/
+.lsp/
+.calva/
